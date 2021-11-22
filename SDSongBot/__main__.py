@@ -13,7 +13,7 @@ pm_start_text = """
      
 Syntax : ```/dsong Faded```
       
-Powerd By @SDBotsz 🔥
+Powered By @Z_Bots 🔥
 """
 
 @app.on_message(filters.command("start"))
@@ -26,10 +26,10 @@ async def start(client, message):
             [
                 [
                      InlineKeyboardButton(
-                        text="Channel 🙋‍♀️", url="https://t.me/SDBOTs_Inifinity"
+                        text="Channel 🙋‍♀️", url="https://t.me/Z_Bots"
                     ),
                     InlineKeyboardButton(
-                        text="Dev 🔥", url="https://t.me/Itz_Sadew"
+                        text="Dev 🔥", url="https://github.com/madtoazenzio"
                     )
                 ]
             ]
